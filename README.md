@@ -1,6 +1,12 @@
 # UnityPlayModeSwitcher
 Unity editor window to quickly toggle domain and scene reloading for faster Play Mode entry.
 
+## Before
+![before](https://github.com/user-attachments/assets/83646def-8579-45b9-badf-a8da031cee0f)
+## Before
+![after](https://github.com/user-attachments/assets/16b38eda-bebf-4dbb-ab2d-4b05e251f77b)
+
+
 ## Features
 
 *   Provides a simple window with buttons to switch between the four "Enter Play Mode" options.
